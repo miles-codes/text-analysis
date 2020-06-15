@@ -28,7 +28,7 @@ N se može odrediti s argumentom --top
 example: 
 python3 main.py -f input/sample.txt
 or
-python main.py -f input/sample.txt -l 3 -t 10 -o output.txt
+python3 main.py -f input/sample.txt -l 3 -t 10 -o output.txt
 (('a', 'k', 'u'), 2)
 (('a', 'k', 'l'), 1)
 (('a', 'l', 'u'), 1)
